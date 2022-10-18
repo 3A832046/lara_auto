@@ -13,6 +13,6 @@
     ],
     "require": {
         "monolog/monolog": "^3.2",
-        "nesbot/carbon": "^2.16"
+        "nesbot/carbon": "^2.60"
     }
 }
